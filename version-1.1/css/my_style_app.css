@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document
+   My 1st Java Application 1.1
+   Auteur : David Nogent/Adagp, 2023 & 2024 */
+body {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; /* style de police */
+	color:#FFF; /* couleur de la police */
+	font-size:18px; /* taille de la police */
+	font-weight:bold; /* caractère gras */
+	background:url(../images/background.png); /* image d'arrière plan */
+	background-color:#3CF; /* couleur de l'arrière plan */
+	font-variant:small-caps; /* caractère en lettre capitale */
+}
+
+#titre {
+	font-size:56px;
+	font-weight:bold;
+	background-color:#0033FF;
+	font-variant:small-caps;
+	text-align:center;
+}
+
+#version {
+	font-size:12px;
+	font-variant:small-caps;
+	text-align:center;
+}
+
+td {
+	font-weight:bold;
+	font-variant:small-caps;
+}
+
+a {
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:18px;
+color:#990000;
+text-align:center;
+font-variant:small-caps;
+text-decoration:none;
+}
+
+a:hover {
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:24px;
+color:#0000FF;
+text-align:center;
+font-variant:small-caps;
+text-decoration:none;
+}
+
+#copyright {
+	text-align:center;
+	font-variant:small-caps;
+	color:#000;
+	font-size:14px;
+}
+
+#java_logo {
+	text-align:center;
+}
+
+#message {
+	text-align:center;
+}
+
+#enregistrement_utilisateur {
+	text-align:center;
+}
